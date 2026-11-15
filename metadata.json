@@ -1,0 +1,8 @@
+{
+  "name": "Aced.io VN — Phỏng vấn AI & Đánh giá Kỹ năng",
+  "description": "Nền tảng giả lập phỏng vấn kỹ thuật tích hợp AI, sandbox thực thi mã nguồn và đánh giá năng lực theo Rubric chuẩn hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
